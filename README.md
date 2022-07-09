@@ -21,6 +21,6 @@
 # Usage:
 1. Download the Zip and extract it
 2. Make sure WSA is running and the Developer Options are enabled
-2. Drag and drop a APK on the Installer.bat File
+2. Drag and drop a APK on the Easy WSA APK Installer.bat
 3. Authorize the ADB Connection
 4. Streamed Install begins
