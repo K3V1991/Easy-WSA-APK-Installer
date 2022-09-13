@@ -15,7 +15,7 @@
   
 ## NFO:
 * APK Installer
-* Uses latest ADB Files (SDK Platform Tools v33.0.2-8557947, May 2022)
+* Uses latest ADB Files (SDK Platform Tools v33.0.3-8952118, August 2022)
 * Double click the WSA Settings.bat to easily open WSA Settings 
 
 # Usage:
