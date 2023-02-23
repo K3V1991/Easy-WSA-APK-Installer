@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/FDbtfv1/Installer.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Easy-WSA-APK-Installer/blob/main/Installer.png" width="200"></a>
 <h1 align="center"><b>Easy WSA APK Installer</b></h1>
 <h4 align="center">A Batch Script to easily install APKs Files for the Windows Subsystem for Android</h4>
 <br />
