@@ -4,13 +4,13 @@
 <br />
 
 <p align="center">
-<a href="" alt="Latest Release"><img src="https://img.shields.io/github/v/release/K3V1991/Easy-WSA-APK-Installer?color=blueviolet&label=Latest%20Release"></a>
-<a href="" alt="Downloads"><img src="https://img.shields.io/github/downloads/K3V1991/Easy-WSA-APK-Installer/total?color=green&label=Downloads"></a>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="Donate-PayPal"><img src="https://img.shields.io/badge/Donate-PayPal-blue"></a>
-<a href="https://github.com/K3V1991/Donate-Crypto" alt="Donate-Crypto"><img src="https://img.shields.io/badge/Donate-Crypto-yellow"></a>
+<img src="https://img.shields.io/github/v/release/K3V1991/Easy-WSA-APK-Installer?color=blueviolet&style=for-the-badge">
+<img src="https://img.shields.io/github/downloads/K3V1991/Easy-WSA-APK-Installer/total?color=sucess&style=for-the-badge">
+<a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="PayPal"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+<a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Crypto"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 </p>
-<hr>
-<br />
+<hr />
 <br />
   
 ## NFO:
